@@ -1,5 +1,5 @@
 # Firewalls-
-Highlights my knowledge of Firewall port rule configuration
+Highlights my knowledge of Firewall Port Rule configuration
 
 Step 1
 
