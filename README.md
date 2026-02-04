@@ -1,5 +1,5 @@
 # Firewalls-
-Labs and Experience showcasing my knowledge of Firewalls
+Highlights my knowledge of Firewall port rule configuration
 
 Step 1
 
