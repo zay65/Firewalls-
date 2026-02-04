@@ -1,4 +1,4 @@
-# Firewalls-
+# Firewalls- Inbound and Outbound traffic setup 
 Highlights my knowledge of Firewall Port Rule configuration
 
 Step 1
